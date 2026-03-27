@@ -1,0 +1,5 @@
+{
+  "name": "ReserveIt - SaaS Booking Platform",
+  "description": "A comprehensive booking system for services with user and admin dashboards, role-based access, and real-time availability.",
+  "requestFramePermissions": []
+}
